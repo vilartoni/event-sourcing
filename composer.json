@@ -1,0 +1,16 @@
+{
+  "name": "vilartoni/event-sourcing",
+  "description": "Event Sourcing experimentation",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Antonio Vilar",
+      "email": "tonivilar@gmail.com"
+    }
+  ],
+  "require": {
+    "ramsey/uuid": "4.0.1",
+    "phpunit/phpunit": "9.1.4"
+  }
+}
