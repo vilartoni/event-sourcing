@@ -3,7 +3,7 @@
 namespace Vilartoni\Shared\Domain;
 
 use Vilartoni\Shared\Domain\Event\DomainEvent;
-use Vilartoni\Shared\Domain\Event\EventSourcingAggregateRoot;
+use Vilartoni\Shared\Domain\EventSourcingAggregateRoot;
 use Vilartoni\Shared\Domain\Event\EventStore;
 use Vilartoni\Shared\Domain\Identity\UniqueIdentifier;
 

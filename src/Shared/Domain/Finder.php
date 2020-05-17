@@ -2,7 +2,7 @@
 
 namespace Vilartoni\Shared\Domain;
 
-use Vilartoni\Shared\Domain\Event\EventSourcingAggregateRoot;
+use Vilartoni\Shared\Domain\EventSourcingAggregateRoot;
 use Vilartoni\Shared\Domain\Identity\UniqueIdentifier;
 
 abstract class Finder

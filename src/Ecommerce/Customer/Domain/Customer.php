@@ -2,7 +2,7 @@
 
 namespace Vilartoni\Ecommerce\Customer\Domain;
 
-use Vilartoni\Shared\Domain\Event\EventSourcingAggregateRoot;
+use Vilartoni\Shared\Domain\EventSourcingAggregateRoot;
 
 final class Customer extends EventSourcingAggregateRoot
 {

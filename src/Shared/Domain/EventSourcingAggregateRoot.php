@@ -1,8 +1,9 @@
 <?php
 
-namespace Vilartoni\Shared\Domain\Event;
+namespace Vilartoni\Shared\Domain;
 
 use InvalidArgumentException;
+use Vilartoni\Shared\Domain\Event\DomainEvent;
 use Vilartoni\Shared\Domain\Identity\UniqueIdentifier;
 
 abstract class EventSourcingAggregateRoot
